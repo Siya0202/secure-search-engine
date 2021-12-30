@@ -72,11 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ###Tools used to build secure search engine
 
-Tools used
-Google Custom Search API
-Context API (Redux)
-Firebase to setup the app to connect to google
-Responsive Design
-Material UI
-React Router
-Custom Hook
+Google Custom Search API.\
+Context API (Redux).\
+Firebase to setup the app to connect to google.\
+Responsive Design.\
+Material UI.\
+React Router.\
+Custom Hook.\
