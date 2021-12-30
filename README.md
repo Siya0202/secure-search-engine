@@ -78,4 +78,4 @@ Firebase to setup the app to connect to google.\
 Responsive Design.\
 Material UI.\
 React Router.\
-Custom Hook.\
+Custom Hook
